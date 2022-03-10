@@ -1,2 +1,4 @@
 alma
-barack
+barack+szilva
+cseresznye
+
